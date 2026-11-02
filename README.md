@@ -4,7 +4,7 @@
 > Specializing in **Generative Engine Optimization (GEO)**, **Answer Engine Optimization (AEO)**, and **Entity Search Architecture**.
 
 [![Website](https://img.shields.io/badge/Official_Site-shiv.la-D23A2A?style=flat-square)](https://shiv.la/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shivam_Pandya-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/YOUR_LINKEDIN_SLUG)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shivam_Pandya-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shivlo)
 [![Medium](https://img.shields.io/badge/Medium-@shivampandya-000000?style=flat-square&logo=medium)](https://medium.com/@shivampandya)
 [![awesome-geo](https://img.shields.io/badge/Curator-awesome--geo-red?style=flat-square)](https://github.com/ShivamPandya/awesome-geo)
 
