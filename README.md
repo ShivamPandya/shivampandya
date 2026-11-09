@@ -17,7 +17,7 @@
 * **Practice:** Arctique Consulting
 * **Focus Areas:** Generative Engine Optimization (GEO), Answer Engine Optimization (AEO), Entity Architecture, Information Gain Modeling, Brand Citation Retrieval.
 * **Canonical Hub:** [https://shiv.la](https://shiv.la)
-* **Author Profiles:** [Medium (@shivampandya)](https://medium.com/@shivampandya) · [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_SLUG)
+* **Author Profiles:** [Medium (@shivampandya)](https://medium.com/@shivampandya) · [LinkedIn](https://www.linkedin.com/in/shivlo)
 
 ---
 
